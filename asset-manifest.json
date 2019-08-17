@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc4d760f.chunk.css",
-    "main.js": "/static/js/main.43627f57.chunk.js",
-    "main.js.map": "/static/js/main.43627f57.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.94bb2f1e.chunk.js": "/static/js/2.94bb2f1e.chunk.js",
-    "static/js/2.94bb2f1e.chunk.js.map": "/static/js/2.94bb2f1e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3781b5e7bb81251c574a529216e90ec5.js": "/precache-manifest.3781b5e7bb81251c574a529216e90ec5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.dc4d760f.chunk.css.map": "/static/css/main.dc4d760f.chunk.css.map",
-    "static/media/avatar.png": "/static/media/avatar.dfd4bc38.png",
-    "static/media/company2.png": "/static/media/company2.71fe148b.png",
-    "static/media/company3.png": "/static/media/company3.7cc25a68.png",
-    "static/media/company4.png": "/static/media/company4.a185fb1e.png",
-    "static/media/facebook.png": "/static/media/facebook.4605ebc0.png"
+    "main.css": "/Nevermre.github.io/static/css/main.dc4d760f.chunk.css",
+    "main.js": "/Nevermre.github.io/static/js/main.5f3e8d98.chunk.js",
+    "main.js.map": "/Nevermre.github.io/static/js/main.5f3e8d98.chunk.js.map",
+    "runtime~main.js": "/Nevermre.github.io/static/js/runtime~main.c686e372.js",
+    "runtime~main.js.map": "/Nevermre.github.io/static/js/runtime~main.c686e372.js.map",
+    "static/js/2.94bb2f1e.chunk.js": "/Nevermre.github.io/static/js/2.94bb2f1e.chunk.js",
+    "static/js/2.94bb2f1e.chunk.js.map": "/Nevermre.github.io/static/js/2.94bb2f1e.chunk.js.map",
+    "index.html": "/Nevermre.github.io/index.html",
+    "precache-manifest.ff7768ea0553df35701bb93e1368ed4a.js": "/Nevermre.github.io/precache-manifest.ff7768ea0553df35701bb93e1368ed4a.js",
+    "service-worker.js": "/Nevermre.github.io/service-worker.js",
+    "static/css/main.dc4d760f.chunk.css.map": "/Nevermre.github.io/static/css/main.dc4d760f.chunk.css.map",
+    "static/media/avatar.png": "/Nevermre.github.io/static/media/avatar.dfd4bc38.png",
+    "static/media/company2.png": "/Nevermre.github.io/static/media/company2.71fe148b.png",
+    "static/media/company3.png": "/Nevermre.github.io/static/media/company3.7cc25a68.png",
+    "static/media/company4.png": "/Nevermre.github.io/static/media/company4.a185fb1e.png",
+    "static/media/facebook.png": "/Nevermre.github.io/static/media/facebook.4605ebc0.png"
   }
 }
